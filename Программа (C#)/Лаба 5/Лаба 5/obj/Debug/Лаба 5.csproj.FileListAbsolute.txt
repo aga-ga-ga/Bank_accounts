@@ -1,0 +1,12 @@
+C:\Users\Alexzander\Desktop\ТП\Проект 3\Программа (C#)\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe.config
+C:\Users\Alexzander\Desktop\ТП\Проект 3\Программа (C#)\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe
+C:\Users\Alexzander\Desktop\ТП\Проект 3\Программа (C#)\Лаба 5\Лаба 5\bin\Debug\Лаба 5.pdb
+C:\Users\Alexzander\Desktop\ТП\Проект 3\Программа (C#)\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csprojResolveAssemblyReference.cache
+C:\Users\Alexzander\Desktop\ТП\Проект 3\Программа (C#)\Лаба 5\Лаба 5\obj\Debug\Лаба 5.exe
+C:\Users\Alexzander\Desktop\ТП\Проект 3\Программа (C#)\Лаба 5\Лаба 5\obj\Debug\Лаба 5.pdb
+C:\Users\Alexzander\Desktop\ТП\Проект03\Программа (C#)\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe.config
+C:\Users\Alexzander\Desktop\ТП\Проект03\Программа (C#)\Лаба 5\Лаба 5\obj\Debug\Лаба 5.exe
+C:\Users\Alexzander\Desktop\ТП\Проект03\Программа (C#)\Лаба 5\Лаба 5\obj\Debug\Лаба 5.pdb
+C:\Users\Alexzander\Desktop\ТП\Проект03\Программа (C#)\Лаба 5\Лаба 5\bin\Debug\Лаба 5.exe
+C:\Users\Alexzander\Desktop\ТП\Проект03\Программа (C#)\Лаба 5\Лаба 5\bin\Debug\Лаба 5.pdb
+C:\Users\Alexzander\Desktop\ТП\Проект03\Программа (C#)\Лаба 5\Лаба 5\obj\Debug\Лаба 5.csprojResolveAssemblyReference.cache
