@@ -19,7 +19,7 @@ namespace Лаба_4
     {
         
 
-
+        // new commit
         public Form1()
         {
             InitializeComponent();
@@ -36,6 +36,7 @@ namespace Лаба_4
             radioButton3.Visible = false;
             radioButton4.Visible = false;
             statusStrip1.Visible = false;
+            
             
         }
 
